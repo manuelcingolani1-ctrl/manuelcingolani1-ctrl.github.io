@@ -24,7 +24,5 @@ apunta registros `A` a `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, 
 ## Archivos
 - `index.html` — la landing
 - `cv-manuel-cingolani.pdf` — CV descargable
-- `favicon.svg`, `404.html`, `.nojekyll`
+- `404.html`, `.nojekyll`
 
-## Atajos de teclado en la web
-`C` copia el email · `D` descarga el CV · `⌘K / Ctrl K` abre el menú de comandos
